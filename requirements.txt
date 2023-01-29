@@ -1,0 +1,5 @@
+PySide6~=6.3.0
+pandas~=1.4.2
+matplotlib~=3.5.2
+mplfinance~=0.12.9b1
+scipy~=1.8.1
